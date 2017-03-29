@@ -6,6 +6,9 @@
  - 各リポジトリの開発のための話し合いは2chのスレかしたらばのスレかIssueチケット内などで行う
  - その他で分からないことや気になることがあったら、このHELP-AND-READMEのリポジトリのIssuesで聞いてください
  
+ https://github.com/orgs/hikky-coop/teams
+でチームを作れる、リポジトリごとのSettingでチームをAdminで加える必要がある
+ 
  
 ヒッキーのプログラミングするスレ 9 (旧 プログラミング雑談 in HIKIKO) [無断転載禁止]c2ch.net  
 http://hanabi.2ch.net/test/read.cgi/hikky/1489179773/l50  
